@@ -39,7 +39,7 @@ struct SettingsView: View {
 
                 
                 Button {
-                    if let url = URL(string: "https://www.dropbox.com/scl/fi/152abktjmpem4bd5vxch3/Privacy-Policy-for-ninethirtyteen.papert?rlkey=9nq0zniozzx22i1j8c5ydvx7y&st=xr0490lp&dl=0") {
+                    if let url = URL(string: "https://www.dropbox.com/scl/fi/d8w8wpydcy5ydsuoyyhls/Privacy-Policy-for-FillBlockyPuzzle.paper?rlkey=bdxgw8kd59jyr20bpy4xm397v&dl=0") {
                         UIApplication.shared.open(url)
                     }
                 } label: {
